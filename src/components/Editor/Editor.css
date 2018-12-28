@@ -253,10 +253,10 @@ debug-expression-error {
 }
 
 @keyframes fade-highlight-out {
-  0% {
+  40% {
     background-color: var(--theme-highlight-gray);
   }
-  100% {
+  80% {
     background-color: transparent;
   }
 }
